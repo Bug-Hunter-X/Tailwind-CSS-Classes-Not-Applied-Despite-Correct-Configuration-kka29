@@ -1,0 +1,1 @@
+I encountered an issue where Tailwind CSS classes weren't being applied correctly to my elements.  I had the correct Tailwind directives in my `tailwind.config.js` file, and my CSS file was correctly importing the generated CSS, but some classes were simply being ignored.  For example, I used the class `bg-red-500` and the element remained its default background color.
